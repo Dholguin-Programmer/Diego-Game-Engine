@@ -1,0 +1,3 @@
+[submodule "DMath-Engine"]
+	path = DMath-Engine
+	url = https://github.com/Dholguin-Programmer/DMath-Engine
