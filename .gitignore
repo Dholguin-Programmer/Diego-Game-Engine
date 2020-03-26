@@ -1,0 +1,2 @@
+# Ignore any output from local builds
+.build

@@ -1,8 +1,0 @@
-#!/bin/bash
-
-SCRIPT=$( realpath "." )
-SCRIPTPATH=$( dirname $SCRIPT )
-
-export OE_ARCHIVE_DEST=$SCRIPTPATH/.build
-export OE_LIBRARY_DEST=$SCRIPTPATH/.build
-export OE_RUNTIME_DEST=$SCRIPTPATH/.build

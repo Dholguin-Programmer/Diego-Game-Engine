@@ -1,0 +1,9 @@
+#!/bin/bash
+
+source common.xdev
+
+export TARGET_CPU="intel"
+export TARGET_INSTRUCTION_SET_ARCHITECTURE="x86-64"
+export TARGET_OS="linux-gnu"
+export TARGET_COMPILER_CXX="g++"
+export TARGET_COMPILER_C="gcc"
